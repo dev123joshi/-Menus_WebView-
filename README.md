@@ -141,8 +141,8 @@ The user can:
 
 # 👩‍🎓 Student Details
 
-**Name:** SWARUPA S
-**USN:** 25MCAR0137
+**Name:**Devraath Joshi
+**USN:** 25MCAR0091
 
 ---
 
